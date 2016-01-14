@@ -1,0 +1,4 @@
+[submodule "phantomjs"]
+	path = phantomjs
+	url = https://github.com/ariya/phantomjs.git
+	branch = master
